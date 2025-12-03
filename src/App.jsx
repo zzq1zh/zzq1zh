@@ -36,6 +36,7 @@ const SUBMITTED_PAPERS = [
     authors: "Jien Li*, Zhenke Liu*, Ziqi Zhang*, Jiaqi Zhang, Ritambhara Singh †",
     venue: "Submitted to Research in Computational Molecular Biology 2026",
     advisor: "Advised by Prof. Ritambhara Singh",
+    link: "https://www.biorxiv.org/content/10.1101/2025.11.22.689941v1",
     abstract: "Extended the eccDNAMamba framework with interpretability tools using Integrated Gradients. Established a new benchmark for cancer-healthy eccDNA classification and cross-species discrimination.",
     tags: ["AI for Science", "Genomics", "Interpretability"]
   },
